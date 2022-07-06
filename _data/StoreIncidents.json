@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -201,29 +201,24 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "militaryaid",
+		"price": 3000,
+		"karmatype": "Good"
 	},
 	{
-		"abr": "dropraid",
+		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -251,6 +246,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -269,6 +269,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 2000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -298,6 +303,11 @@
 	{
 		"abr": "reviveme",
 		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -396,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 81
 }
