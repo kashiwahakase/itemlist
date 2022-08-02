@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Neceros",
@@ -30,64 +30,16 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Gunplay",
-    "steamId": "2034896549",
-    "version": "1.0.379.0018"
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "YAYO & Ogliss",
-    "name": "Yayo's Combat 3 [Adopted]",
-    "steamId": "2513695736",
-    "version": "1.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hyur Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Lalafell Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Miqo'te Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Viera Race",
-    "steamId": null,
-    "version": null
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M2",
+    "steamId": "2781023972",
+    "version": "0.0.0.0"
   },
   {
     "author": "Mlie",
     "name": "All Memories Fade",
     "steamId": "2800155563",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   {
     "author": "spoonshortage",
@@ -138,10 +90,70 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
+    "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi and  Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.3.4.7"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.3.2.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -162,18 +174,6 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
     "author": "Ben Lubar and Efi",
     "name": "Ben Lubar presents: Vanilla Books Expanded Expanded",
     "steamId": null,
@@ -192,16 +192,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Core",
     "steamId": "2038000893",
-    "version": "2.0.0-beta"
+    "version": "1.3.60.5"
   },
   {
     "author": "Fluffy",
@@ -246,6 +240,12 @@
     "version": null
   },
   {
+    "author": "N7Huntsman",
+    "name": "Combat Extended: Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
@@ -255,7 +255,7 @@
     "author": "Mlie",
     "name": "Convert Then Recruit",
     "steamId": "2702584632",
-    "version": "1.3.11"
+    "version": "1.3.12"
   },
   {
     "author": "Alias",
@@ -306,10 +306,46 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
   },
   {
     "author": "avilmask",
@@ -340,6 +376,12 @@
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   },
   {
     "author": "Aelanna",
@@ -402,12 +444,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ykara",
     "name": "Expanded Prosthetics and Organ Engineering",
     "steamId": null,
@@ -428,12 +464,6 @@
   {
     "author": "Gloomylynx",
     "name": "Gloomy Hair mk2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Heruan Race",
     "steamId": null,
     "version": null
   },
@@ -486,42 +516,6 @@
     "version": "3.4.91"
   },
   {
-    "author": "Sarg",
-    "name": "Magical Menagerie",
-    "steamId": "1821617793",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": "1217001091",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spino",
-    "name": "Megafauna",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neceros (Original) and  Mario",
     "name": "Metal Don't Burn (UNOFFICIAL 1.3 PATCH)",
     "steamId": null,
@@ -548,6 +542,12 @@
   {
     "author": "Kirby",
     "name": "More Religious Origins",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
     "steamId": null,
     "version": null
   },
@@ -592,6 +592,12 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "Personalities: RPG Alignments",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -639,7 +645,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8218.43109"
+    "version": "1.0.8247.19221"
   },
   {
     "author": "Sandy",
@@ -681,7 +687,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.3.7"
+    "version": "1.3.8"
   },
   {
     "author": "Uuugggg",
@@ -930,14 +936,14 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  xrushha and  SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
   },
@@ -964,12 +970,6 @@
     "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
   },
   {
     "author": "pureMJ",
@@ -1032,6 +1032,42 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
@@ -1082,18 +1118,6 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Maynard Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Taranchuk and  Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -1176,12 +1200,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Syrus",
-    "name": "Yayo's Combat 3 - Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ELIF",
     "name": "[ELIF] SRTS - Helicopters",
     "steamId": null,
@@ -1198,6 +1216,12 @@
     "name": "[JPT] Open The Windows",
     "steamId": "1971860929",
     "version": "2.3.1"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7862.37403"
   },
   {
     "author": "Kiame Vivacity",
