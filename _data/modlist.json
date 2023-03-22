@@ -6,6 +6,12 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Visual Exceptions",
+    "steamId": "2538411704",
+    "version": "1.2.1.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -15,7 +21,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1235.0"
+    "version": "1.4.1240.0"
   },
   {
     "author": "Hahkethomemah",
@@ -49,7 +55,7 @@
   },
   {
     "author": "Owlchemist",
-    "name": "Cherry Picker (dev)",
+    "name": "Cherry Picker",
     "steamId": "2633276599",
     "version": "1.4"
   },
@@ -102,6 +108,54 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "Android Tiers Reforged",
+    "steamId": "2917948202",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "laura7z",
+    "name": "Androids Don't Breathe",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, xrushha and SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
@@ -135,7 +189,13 @@
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "2890901044",
-    "version": "1.4.5.1"
+    "version": "1.4.5.2"
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
   },
   {
     "author": "Dylan",
@@ -159,7 +219,13 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8369.20891"
+    "version": "1.0.8420.33175"
+  },
+  {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!",
+    "steamId": "2204437968",
+    "version": "1.3.0.1"
   },
   {
     "author": "Razor 2.3",
@@ -190,6 +256,18 @@
     "name": "BetterInfoCard",
     "steamId": "2890920739",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Framework",
+    "steamId": "2897160312",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Plasma Weapons",
+    "steamId": "2937054043",
+    "version": "1.0.0"
   },
   {
     "author": "The Biomes Mod Team",
@@ -243,7 +321,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.4.3566.3"
+    "version": "1.4.3607.2"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -291,7 +369,7 @@
     "author": "Mlie",
     "name": "Convert Then Recruit",
     "steamId": "2702584632",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Chris",
@@ -318,16 +396,10 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Augurr",
-    "name": "RimFridge Updated",
-    "steamId": "2878183338",
-    "version": "1.2.1.0"
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0"
   },
   {
     "author": "Little White Mouse",
@@ -366,6 +438,12 @@
     "version": null
   },
   {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "pelador",
     "name": "Drug Policy Fix (Continued)",
     "steamId": null,
@@ -382,24 +460,6 @@
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "Android Tiers Reforged",
-    "steamId": "",
-    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -504,10 +564,22 @@
     "version": "1.3.2.0"
   },
   {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Sir Van and Elseud",
+    "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.4.1"
+    "version": "1.4.5"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -546,10 +618,16 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Supersonic",
+    "name": "Kenshi Cuisine",
+    "steamId": "2600344770",
+    "version": "1.0.0.0"
   },
   {
     "author": "LachlanEaston",
@@ -562,6 +640,12 @@
     "name": "Literally just a sofa",
     "steamId": "2894560149",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -585,37 +669,13 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.11.0.0"
+    "version": "1.12.4.0"
   },
   {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Spino and Sarg",
@@ -628,6 +688,12 @@
     "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.8331.27653"
   },
   {
     "author": "Fluffy",
@@ -645,7 +711,7 @@
     "author": "Arquebus",
     "name": "More Persona Traits",
     "steamId": "2863308112",
-    "version": "1.1.8379.24281"
+    "version": "0.0.0.0"
   },
   {
     "author": "Kirby",
@@ -658,6 +724,12 @@
     "name": "More Sculpture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oblitus",
@@ -711,13 +783,19 @@
     "author": "Mlie",
     "name": "Prisoners Should Fear Turrets",
     "steamId": "2602436826",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Neptimus7",
     "name": "Progress Renderer",
     "steamId": "2010777010",
     "version": "1.4"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.7.7"
   },
   {
     "author": "iamrespawn",
@@ -747,7 +825,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8402.8228"
+    "version": "1.0.8479.20156"
   },
   {
     "author": "Sandy",
@@ -765,7 +843,7 @@
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
-    "version": "2.3.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "mr.teterew",
@@ -789,7 +867,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.4.1"
+    "version": "1.4.6"
   },
   {
     "author": "Uuugggg",
@@ -808,12 +886,6 @@
     "name": "RimCities",
     "steamId": "1775170117",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "sindre0830",
@@ -844,18 +916,6 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
-    "author": "Smash Phil and Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
   },
   {
     "author": "Owlchemist",
@@ -975,7 +1035,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "MarvinKosh",
@@ -1016,6 +1076,12 @@
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
     "steamId": null,
     "version": null
   },
@@ -1135,7 +1201,7 @@
   },
   {
     "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded Additional Outposts",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
     "steamId": null,
     "version": null
   },
@@ -1162,6 +1228,12 @@
     "name": "Virtue Framework",
     "steamId": "2751960076",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "hatena",
+    "name": "VoiceroidAsAnimal",
+    "steamId": "2073559411",
+    "version": "1.9.2"
   },
   {
     "author": "Murmur",
@@ -1224,28 +1296,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.8331.27653"
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tjet",
-    "name": "Yuran race CE patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "pb3n and Taranchuk",
     "name": "[BETA] Simple Warrants",
     "steamId": "2676828755",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
+    "author": "ELIF",
+    "name": "[ELIF] SRTS - Helicopters",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -1258,6 +1324,18 @@
     "name": "[KV] More Trait Slots [1.4]",
     "steamId": "",
     "version": "1.0.8330.21987"
+  },
+  {
+    "author": "Kiame Vivacity and Taranchuk",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lolidrop",
+    "name": "[L] House Maid Nukos",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Shadowrabbit",
@@ -1276,6 +1354,12 @@
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "psychelo",
+    "name": "kemomimihouse",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
