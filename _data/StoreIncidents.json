@@ -11,11 +11,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -202,27 +197,22 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -411,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 80
 }
