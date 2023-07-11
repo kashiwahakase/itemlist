@@ -3825,32 +3825,6 @@
       },
       "defName": "Bravery",
       "name": "fearless"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Unaffected",
-      "name": "unaffected"
     }
   ],
   "races": [
@@ -3878,6 +3852,36 @@
       "enabled": false,
       "name": "human",
       "price": 3000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-60.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic resistance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0 Armor - Blunt",
+          "+0 Armor - Sharp",
+          "+0.0% Armor - Heat",
+          "+0.1 Melee dodge chance",
+          "+10% Melee critical chance",
+          "+5% Melee parry chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": false,
+      "name": "Zombie",
+      "price": 1
     },
     {
       "data": {

@@ -276,24 +276,6 @@
     "version": "1.3.60.5"
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mammalia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mythic",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -384,18 +366,6 @@
     "version": null
   },
   {
-    "author": "telardo",
-    "name": "Better Gene Graphics Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "cyanobot",
-    "name": "Cyanobot's Genes",
-    "steamId": "2889844371",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "balistafreak",
     "name": "Standalone Hot Spring",
     "steamId": null,
@@ -448,12 +418,6 @@
     "name": "Defensive Positions",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "merthsoft",
-    "name": "Designator Shapes",
-    "steamId": "1235181370",
-    "version": "1.0.0.0"
   },
   {
     "author": "tikubonn",
@@ -837,7 +801,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8589.3035"
+    "version": "1.0.8586.18642"
   },
   {
     "author": "Sandy",
@@ -924,24 +888,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Kikohi and Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain, SonicTHI and Owlchemist",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Scattered Flames",
     "steamId": "2652749788",
@@ -993,7 +939,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.3"
+    "version": "1.4.2"
   },
   {
     "author": "Uuugggg",
@@ -1300,6 +1246,30 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain, SonicTHI and Owlchemist",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "4.1.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
