@@ -362,9 +362,9 @@
   "raid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 900,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
@@ -378,9 +378,9 @@
   "sapperraid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 900,
     "Mod": "Twitch Toolkit"
   },
   "siegeraid": {
@@ -394,9 +394,9 @@
   "mechanoidraid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 900,
     "Mod": "Twitch Toolkit"
   },
   "infestation": {

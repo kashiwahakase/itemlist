@@ -191,22 +191,12 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 4500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "siegeraid",
 		"price": 4500,
 		"karmatype": "Doom"
 	},
@@ -297,7 +287,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -401,5 +391,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 78
 }
