@@ -2113,7 +2113,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -2130,7 +2132,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2563,7 +2567,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2572,7 +2578,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2589,7 +2597,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2598,7 +2608,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2615,7 +2627,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2624,7 +2638,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2841,7 +2857,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2854,7 +2872,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2871,7 +2891,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2882,7 +2904,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3132,7 +3156,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3226,10 +3250,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -3303,7 +3331,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3312,7 +3342,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3364,10 +3396,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3622,7 +3658,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy has a deep fondness toward all organic life, seeing them as the pinnacle of culture and existence. Timmy aspires to be as organic as possible, whatever that means to them.",
+      "description": "Timmy has a deep fondness toward all organic life, seeing them as the pinnacle of culture and existence. Timmy aspires to act as organic as possible, whatever that means to them.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3632,7 +3668,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Android Tiers Reforged",
+        "mod": "MH: Android Tiers Core",
         "karmaTypeForAdding": null
       },
       "defName": "ATR_FeelingsTowardOrganics",
@@ -3654,7 +3690,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Android Tiers Reforged",
+        "mod": "MH: Android Tiers Core",
         "karmaTypeForAdding": null
       },
       "defName": "ATR_FeelingsTowardOrganics",
@@ -3676,7 +3712,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Android Tiers Reforged",
+        "mod": "MH: Android Tiers Core",
         "karmaTypeForAdding": null
       },
       "defName": "ATR_FeelingsTowardOrganics",
@@ -3698,55 +3734,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Android Tiers Reforged",
+        "mod": "MH: Android Tiers Core",
         "karmaTypeForAdding": null
       },
       "defName": "ATR_FeelingsTowardOrganics",
       "name": "hatesorganics"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket"
     },
     {
       "canAdd": true,
@@ -3825,6 +3817,82 @@
       },
       "defName": "Bravery",
       "name": "fearless"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cyanobot's Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Unaffected",
+      "name": "unaffected"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy knows the spirit of all arms. If he is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should Timmy ever unequip the weapon, it will lose these traits.",
+      "stats": [
+        "+4 melee",
+        "+2.5 melee hit chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 melee",
+          "+2.5 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "More Persona Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MPT_BladeWhisperer",
+      "name": "bladewhisperer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "By choice, by tragedy, or simply by the slow, agonizing passage of time, Timmy is the last of his kind. It is impossible for him to meet anyone he previously knew.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Endling (Last Of Their Kind)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Aelanna_Endling",
+      "name": "endling"
     }
   ],
   "races": [
@@ -3857,37 +3925,7 @@
       "data": {
         "customName": false,
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0 Armor - Blunt",
-          "+0 Armor - Sharp",
-          "+0.0% Armor - Heat",
-          "+0.1 Melee dodge chance",
-          "+10% Melee critical chance",
-          "+5% Melee parry chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+32.50 Mass",
+          "+60.00 Mass",
           "+0% Flammability",
           "+0.5 Melee dodge chance",
           "+50% Melee critical chance",
@@ -3910,6 +3948,8 @@
           "+1.5 Armor - Blunt",
           "+1 Armor - Sharp",
           "+75% Maintenance retention efficiency",
+          "+90% Nutrition intake efficiency",
+          "+175% Charging speed",
           "+50% Smoke sensitivity",
           "+75.00% Aiming accuracy"
         ],
@@ -3918,15 +3958,15 @@
       },
       "description": "Tier one androids are simply humanlike-machines, designed to mimic the general image and minimal capabilities of humanity. Lacking true sapience, many view them like very intelligent and responsive animals. Their existence is to serve, and they do so uncomplainingly.\n\nDue to minimal investment and design, tier one androids suffer from maintenance and efficiency flaws, leaving them relatively obsoleted by later, more durable, iterations - except for jobs where minimal specifications and resources is explicitly required or desired.",
       "defName": "ATR_Tier1Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T1 Android",
-      "price": 1667
+      "price": 3000
     },
     {
       "data": {
         "customName": false,
         "stats": [
-          "+62.50 Mass",
+          "+96.00 Mass",
           "+0% Flammability",
           "+0.8 Melee dodge chance",
           "+80% Melee critical chance",
@@ -3948,6 +3988,8 @@
           "+3 Armor - Blunt",
           "+2 Armor - Sharp",
           "+100% Maintenance retention efficiency",
+          "+50% Nutrition intake efficiency",
+          "+150% Charging speed",
           "+15% Suppressability",
           "+90.00% Aiming accuracy",
           "+25% Smoke sensitivity"
@@ -3959,13 +4001,13 @@
       "defName": "ATR_Tier2Android",
       "enabled": true,
       "name": "T2 Android",
-      "price": 2667
+      "price": 4000
     },
     {
       "data": {
         "customName": false,
         "stats": [
-          "+92.50 Mass",
+          "+144.00 Mass",
           "+0% Flammability",
           "+1.0 Melee dodge chance",
           "+110% Melee critical chance",
@@ -3988,6 +4030,8 @@
           "+7.5 Armor - Blunt",
           "+5 Armor - Sharp",
           "+140% Maintenance retention efficiency",
+          "+25% Nutrition intake efficiency",
+          "+110% Charging speed",
           "+25% Night vision efficiency",
           "+20% Suppressability",
           "+0% Smoke sensitivity",
@@ -3999,7 +4043,7 @@
       },
       "description": "Androids classified as tier three are often qualified by their large stature - standing at a height ranging from seven to nine feet - and impressive capabilities. They are incredibly durable, modular, and capable. Requiring extensive amounts of rare resources, they are generally only mass-produced on glitterworlds.",
       "defName": "ATR_Tier3Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "price": 4000
     },
@@ -4007,7 +4051,7 @@
       "data": {
         "customName": false,
         "stats": [
-          "+72.50 Mass",
+          "+84.00 Mass",
           "+0% Flammability",
           "+1.2 Melee dodge chance",
           "+120% Melee critical chance",
@@ -4027,9 +4071,11 @@
           "+160% Global learning factor",
           "+140% Global work speed",
           "+160.00% Social impact",
-          "+7.5 Armor - Blunt",
+          "+7.8 Armor - Blunt",
           "+5 Armor - Sharp",
           "+180% Maintenance retention efficiency",
+          "+25% Nutrition intake efficiency",
+          "+110% Charging speed",
           "+40% Night vision efficiency",
           "+110.00% Aiming accuracy",
           "+33% Suppressability",
@@ -4042,9 +4088,253 @@
       },
       "description": "The pinnacle of known android theory and practice, the class of tier four androids is marked by the possession of a special AI persona core. While these cores are ultratech technology, the chassis and internals are all high spacer technology. \n\nTier four androids are a cut above the rest, and they know it too - ego complexes and disdain toward others are very common amongst them.",
       "defName": "ATR_Tier4Android",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "price": 6667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+0.8 Melee dodge chance",
+          "+80% Melee critical chance",
+          "+80% Melee parry chance",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$750 Market value",
+          "+4.10 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+8% Mental break threshold",
+          "+0% Global learning factor",
+          "+10% Global work speed",
+          "+5.00% Social impact",
+          "+7.5 Armor - Blunt",
+          "+5 Armor - Sharp",
+          "+100% Maintenance retention efficiency",
+          "+120% Nutrition intake efficiency",
+          "+120% Charging speed",
+          "+50% Smoke sensitivity",
+          "+100.00% Aiming accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Mark one warrior units are the standard baseline for military android variants - cheap, durable, and powerful. These are units crafted for war and war alone, and they are very good at it.\n\nIts small, box-like shape earned it the nicknames of \"battle-box\" and \"blaster-bucket,\" while its default red paint color and military role earned it the affectionate name \"Redcoat.\" The unusual shape also prevents wearing humanlike apparel.",
+      "defName": "ATM_Mark1Warrior",
+      "enabled": false,
+      "name": "M1 Warrior",
+      "price": 1250
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+0% Flammability",
+          "+0.9 Melee dodge chance",
+          "+90% Melee critical chance",
+          "+90% Melee parry chance",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$1300 Market value",
+          "+4.60 Move speed",
+          "-50.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+14% Mental break threshold",
+          "+0% Global learning factor",
+          "+30% Global work speed",
+          "+5.00% Social impact",
+          "+7.5 Armor - Blunt",
+          "+5 Armor - Sharp",
+          "+90% Incoming damage multiplier",
+          "+125% Maintenance retention efficiency",
+          "+120% Nutrition intake efficiency",
+          "+130% Charging speed",
+          "+100.00% Aiming accuracy",
+          "+25% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Mark two bishop units, like their Mark 1 predecessors, are inhuman looking machines built for war. With six limbs that interchangeably act as legs and arms and backup internalized visual sensors, these slender, tall war units are exceedingly tough to take out of fights. More expensive than M1 warriors, the M2 is designed for fighting where mass quantity can't be engaged in full capacity and where a slight quality increase can win the day. These are units crafted for combat, both defensively and offensively, and can hold or push a line with steely determination.\n\nLike its predecessor, it is incapable of wearing apparel and comes in a default red paint color. Due to its thin build and considerable height, it has earned the nicknames \"deathstick,\" and \"warpole,\" while its distinctive \"head\" segment earned it its most common nickname: \"Bishop.\"",
+      "defName": "ATM_Mark2Bishop",
+      "enabled": false,
+      "name": "M2 Bishop",
+      "price": 2167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+210.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$2000 Market value",
+          "+2.50 Move speed",
+          "-60.0C Minimum comfortable temperature",
+          "+65.0C Maximum comfortable temperature",
+          "+21% Mental break threshold",
+          "+90% Global learning factor",
+          "+45% Global work speed",
+          "+80.00% Social impact",
+          "+1 Armor - Sharp",
+          "+80% Incoming damage multiplier",
+          "+400% Injury healing factor",
+          "+175% Maintenance retention efficiency",
+          "+120% Nutrition intake efficiency",
+          "+150% Charging speed",
+          "+50% Aiming time",
+          "+50% Ranged cooldown multiplier",
+          "+50% Stagger time multiplier",
+          "+25% Night vision efficiency",
+          "+20% Suppressability",
+          "+0% Smoke sensitivity",
+          "+1 Armor - Blunt"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The very first military variant idealized, blueprinted, and created by artifical intelligences alone, the mark three variant is as unique as it is aesthetically lacking in the form of a rectangular prism with two forward arms and four large manipulators. It has a very odd design choice: rather than being heavily armored to prevent taking damage, M3's instead have a highly reactive hyperweave-infused chassis that significantly reduces incoming damage. The more damage it sustains, the more resilient against damage it becomes - making M3's a warfighting champion. Specialized hardware vastly increases rate of fire.\n\nThe earliest M3's - contrary to expectation - took to their military role eagerly, and quickly developed a militaristic group ideology that often is likened to ancient chivalric customs. Duels, ritualistic combat, and mild disdain for non-combatants are common. While M3's exhibit no strong moralistic tendencies as a group, violence should be expected from individuals that are insulted or suffer breakdowns.\n\nDue to their large size and shape, they earned the nickname \"Warwagon\" - but the proud M3's prefer to use the nickname \"Paladin.\" Few are brave enough to challenge their choice. Many have died for making unflattering comparisons between paladins and mechanoid centipedes.",
+      "defName": "ATM_Mark3Paladin",
+      "enabled": false,
+      "name": "M3 Paladin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+30.00 Mass",
+          "+0% Flammability",
+          "+1.2 Melee dodge chance",
+          "+120% Melee critical chance",
+          "+120% Melee parry chance",
+          "+100% Pain shock threshold",
+          "+200% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$4000 Market value",
+          "+6.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+42% Mental break threshold",
+          "+200% Global learning factor",
+          "+200% Global work speed",
+          "+200.00% Social impact",
+          "+20 Armor - Blunt",
+          "+10 Armor - Sharp",
+          "+400% Maintenance retention efficiency",
+          "+160% Nutrition intake efficiency",
+          "+200% Charging speed",
+          "+40% Night vision efficiency",
+          "+110.00% Aiming accuracy",
+          "+33% Suppressability",
+          "+0% Smoke sensitivity",
+          "+50 Carry weight",
+          "+25 Bulk capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Mark four units were an accident, originally borne of an ultratech society's misadventure with archotech research. This semi-gelatinous mass of mechanites takes human form, and has a plethora of odd properties. Devoid of coolant and distinct limbs, uniquely psychically gifted with a very human-like brain that can absorb archotech devices like mechlinks and neuroformers, possessed of a body that reacts to harm like paladins do, immune to overheating and freezing, even able to eject a mass of mechanites to incapacitate a foe in close combat at a cost to health, these are powerful beings indeed. Their creation requires a level of compression and energy only achievable under the weight of entire stars - but raving mad prophets claim the M4 is a hierophant, and can be \"naturally born\" by the true gift of the archotechs.\n\nDespite everything, as a group, they behave like and have the desires of normal individuals. Others refer to the M4 as a \"Jellyman\" or \"Gray goo,\" names of which the individuals do not seem to mind as long as they can participate in society on equal terms.",
+      "defName": "ATM_Mark4Jellyman",
+      "enabled": false,
+      "name": "M4 Jellyman",
+      "price": 6667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+450.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+100% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$18000 Market value",
+          "+5.20 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+30 Armor - Sharp",
+          "+67.5 Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+20% Injury healing factor",
+          "+50% Incoming damage multiplier",
+          "+0% Global learning factor",
+          "+0% Stagger time multiplier",
+          "+100% Maintenance retention efficiency",
+          "+120% Nutrition intake efficiency",
+          "+150% Charging speed",
+          "+40% Night vision efficiency",
+          "+0% Smoke sensitivity",
+          "+200 Carry weight",
+          "+100 Bulk capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Mark five is the product of ingenious engineering and a startling lack of actual creativity. Necessitating an orbital production facility with instruments of picoscoping precision and an interstellar empire's worth of logistical supply to manufacture, the Mark five is a testament to human achievement. It is, however, still generally considered a collosal failure of a design. Inexplicably, designers gave it a humanlike form and built it in a way that made it wholly incompatible with pre-existing technology and tactics, even going so far as to somehow give it less actual intelligence than a mark two.\n\nHow such a machine ended up here is not understood, but it is safe to say this is likely one of the single most dangerous entities on the planet.",
+      "defName": "ATM_Mark5Titan",
+      "enabled": false,
+      "name": "M5 Titan",
+      "price": 30000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A near-human race with cosmetic genetic modifications, nekomimi have feline ears and tails but are otherwise physiologically and mentally identical to baseline humans.",
+      "defName": "SimpleRaces_Nekomimi",
+      "enabled": true,
+      "name": "nekomimi",
+      "price": 4000
     }
   ]
 }

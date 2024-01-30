@@ -56,11 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -191,12 +186,22 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
+		"price": 4500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "siegeraid",
 		"price": 4500,
 		"karmatype": "Doom"
 	},
@@ -227,7 +232,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -282,7 +287,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +307,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -327,7 +332,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -391,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 78
+	"total": 79
 }
