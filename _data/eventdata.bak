@@ -682,17 +682,17 @@
   "randomchildhood": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 10,
     "Mod": "ToolkitUtils"
   },
   "randomadulthood": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 10,
     "Mod": "ToolkitUtils"
   },
   "smite": {
