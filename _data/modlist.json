@@ -12,12 +12,6 @@
     "version": "11.0.3"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.9.0"
-  },
-  {
     "author": "Hahkethomemah",
     "name": "1-2-3 Personalities M1",
     "steamId": "2527258500",
@@ -30,8 +24,68 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Core",
+    "steamId": "2659227786",
+    "version": "0.4.8"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Au Ra Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Classes and Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Elezen Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Hybrid Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Hyur Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Lalafell Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Miqo'te Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Viera Race",
     "steamId": null,
     "version": null
   },
@@ -66,15 +120,27 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": "2193152410",
-    "version": "1.0.0.0"
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": "2193152410",
     "version": "1.0.0.0"
   },
   {
@@ -99,6 +165,12 @@
     "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
     "version": "1.0.0.0"
   },
   {
@@ -129,7 +201,7 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
-    "version": "2.7.0"
+    "version": "2.7.4"
   },
   {
     "author": "Aelanna",
@@ -180,6 +252,18 @@
     "version": "2.17.133"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Boats (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "Seamless Embrasures",
     "steamId": "2290689449",
@@ -213,13 +297,25 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.2.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding 2",
+    "steamId": "3260446812",
+    "version": "1.5"
   },
   {
     "author": "Aelanna",
     "name": "Cleaning Speed",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Wiri",
+    "name": "Compositable Loadouts",
+    "steamId": "2679126859",
+    "version": "1.0.0+5f86c72c52d604549f0f09c2ac4c425a25149a27"
   },
   {
     "author": "Aelanna",
@@ -231,7 +327,7 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.5.1"
+    "version": "1.5.3"
   },
   {
     "author": "Chris",
@@ -288,6 +384,24 @@
     "version": null
   },
   {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.5.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -318,6 +432,12 @@
     "version": null
   },
   {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "pelador",
     "name": "Drug Policy Fix (Continued)",
     "steamId": null,
@@ -339,7 +459,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8886.30449"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Dubwise",
@@ -385,6 +505,12 @@
   },
   {
     "author": "Aelanna",
+    "name": "Eccentric Extras - Flares",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
     "name": "Eccentric Tech - Core",
     "steamId": null,
     "version": null
@@ -404,12 +530,24 @@
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Foxy's Armory 2.0",
-    "steamId": "2552628608",
-    "version": "2.8.3.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
     "name": "Eccentric Extras - Signature Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "Pandora's Framework",
+    "steamId": "3226701491",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "Eccentric Militors",
     "steamId": null,
     "version": null
   },
@@ -420,34 +558,16 @@
     "version": null
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Aelanna",
     "name": "Eccentric Tech - Cosmetic Modifications",
     "steamId": "2552628984",
-    "version": "3.2.1.0"
+    "version": "3.3.0.0"
   },
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Defense Grid",
     "steamId": "3066838686",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Flares 2.0",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Aelanna",
@@ -477,7 +597,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.5.0"
+    "version": "1.5.5"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -579,7 +699,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.14.0"
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
     "author": "tofudriver",
@@ -594,10 +714,28 @@
     "version": null
   },
   {
+    "author": "Cat",
+    "name": "Mono Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Arquebus",
     "name": "More Persona Traits",
     "steamId": "2863308112",
-    "version": "1.2.8873.37880"
+    "version": "1.2.8886.35275"
   },
   {
     "author": "Kirby",
@@ -636,16 +774,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0"
+    "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
   },
   {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "legodude17 and ISOREX",
+    "name": "Pawn Editor",
+    "steamId": "3219801790",
+    "version": "1.0.9"
   },
   {
     "author": "Taranchuk",
@@ -656,6 +806,18 @@
   {
     "author": "Hahkethomemah",
     "name": "Personalities: RPG Alignments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cat",
+    "name": "Plasma Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ponpeco",
+    "name": "Ponpeco Hair",
     "steamId": null,
     "version": null
   },
@@ -690,6 +852,12 @@
     "version": "1.0.18"
   },
   {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
@@ -699,7 +867,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8878.38491"
+    "version": "1.0.8945.6171"
   },
   {
     "author": "Sandy",
@@ -753,19 +921,13 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.0"
+    "version": "1.5.5"
   },
   {
     "author": "Cabbage",
     "name": "RimCities",
     "steamId": "1775170117",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
     "author": "Dubwise",
@@ -777,7 +939,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "Roolo, Owlchemist and Nillas",
@@ -873,7 +1035,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.0.0.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "jptrrs",
@@ -915,7 +1077,7 @@
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.4.1"
+    "version": "1.5.0"
   },
   {
     "author": "SirRandoo",
@@ -978,12 +1140,6 @@
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
     "name": "Vanilla Vehicles Expanded",
     "steamId": "3014906877",
@@ -1040,12 +1196,6 @@
   {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
     "steamId": null,
     "version": null
   },
@@ -1134,6 +1284,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.3.0.0"
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -1142,6 +1298,12 @@
   {
     "author": "Revolus",
     "name": "What's Missing?",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   },
@@ -1164,16 +1326,34 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Krkr",
-    "name": "[1.5-1.4] CAI 5000 - Advanced AI + Fog Of War",
-    "steamId": "2938891185",
-    "version": "0.0.0.0"
+    "author": "Zalejrem",
+    "name": "World Map Beautification Project (Continued)",
+    "steamId": "3266720501",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for Advanced Biomes (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for Alpha Biomes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "BJInternetSupervision (Updated by Gunseeker)",
     "name": "[1.5] Lovely Hair Style",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "none",
+    "name": "[CAT] Show Hair With Hats or Hide All Hats",
+    "steamId": "2879080074",
+    "version": "1.0.0.0"
   },
   {
     "author": "Smash Phil and Neceros",
