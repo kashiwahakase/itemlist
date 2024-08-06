@@ -24,72 +24,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Core",
-    "steamId": "2659227786",
-    "version": "0.4.8"
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Au Ra Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Classes and Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Elezen Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hybrid Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Hyur Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Lalafell Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Miqo'te Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "A Rim Reborn - Viera Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "金兔子拉面",
     "name": "AFU女士发型_Women's hairstyles",
     "steamId": null,
@@ -116,6 +50,36 @@
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swablu",
+    "name": "Ambient Rim",
+    "steamId": "3158997430",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Basic Double Doors",
     "steamId": null,
     "version": null
   },
@@ -168,34 +132,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mythology",
-    "steamId": "1821617793",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "swablu",
-    "name": "Ambient Rim",
-    "steamId": "3158997430",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.8838.38019"
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
+    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
   },
   {
     "author": "VouLT",
@@ -312,10 +264,16 @@
     "version": null
   },
   {
-    "author": "Wiri",
-    "name": "Compositable Loadouts",
-    "steamId": "2679126859",
-    "version": "1.0.0+5f86c72c52d604549f0f09c2ac4c425a25149a27"
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
@@ -384,6 +342,12 @@
     "version": null
   },
   {
+    "author": "Phaser Rave",
+    "name": "Deathpallcalypse",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
@@ -404,6 +368,12 @@
   {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrustyBiscuit",
+    "name": "Demon Core Landmine",
     "steamId": null,
     "version": null
   },
@@ -432,20 +402,8 @@
     "version": null
   },
   {
-    "author": "Onyxae",
-    "name": "Dragons Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "pelador",
     "name": "Drug Policy Fix (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield",
     "steamId": null,
     "version": null
   },
@@ -492,6 +450,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Dungeon Core",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelanna",
     "name": "Eccentric Extras - Angel Hairs",
     "steamId": null,
@@ -530,8 +500,8 @@
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Foxy's Armory 2.0",
-    "steamId": null,
-    "version": null
+    "steamId": "2552628608",
+    "version": "2.8.5.0"
   },
   {
     "author": "Aelanna",
@@ -556,6 +526,18 @@
     "name": "Eccentric Tech - Advanced Shields",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Aelanna",
@@ -597,7 +579,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.5.5"
+    "version": "1.5.6"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -626,6 +608,24 @@
   {
     "author": "seeki",
     "name": "Forced Rearmament",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
@@ -783,7 +783,7 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
     "author": "Peppsen",
@@ -837,7 +837,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.8.4"
+    "version": "2.8.7"
   },
   {
     "author": "iamrespawn",
@@ -867,7 +867,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8945.6171"
+    "version": "1.0.8983.31108"
   },
   {
     "author": "Sandy",
@@ -909,7 +909,13 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.0"
+    "version": "1.5.2"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
   },
   {
     "author": "Uuugggg",
@@ -921,7 +927,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.5"
+    "version": "1.5.13"
   },
   {
     "author": "Cabbage",
@@ -942,22 +948,10 @@
     "version": "1.5.1"
   },
   {
-    "author": "Roolo, Owlchemist and Nillas",
-    "name": "RunAndGun (1.5 Updated by Nillas)",
-    "steamId": "3221373644",
-    "version": "1.5"
-  },
-  {
     "author": "DimonSever000",
     "name": "Satellite",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
@@ -974,12 +968,6 @@
   {
     "author": "Taelim",
     "name": "Seamless Embrasures for Armored and Reinforces Walls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
     "steamId": null,
     "version": null
   },
@@ -1056,6 +1044,12 @@
     "version": "1.6.0+dd0f8eb4b330bb7a72b94713ab8b965f9d2320df"
   },
   {
+    "author": "Roolo and Owlchemist",
+    "name": "Tacticowl (temporary beta)",
+    "steamId": "3266724749",
+    "version": "1.5"
+  },
+  {
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
@@ -1096,6 +1090,12 @@
     "name": "Ugh You Got Me",
     "steamId": "1542424705",
     "version": "1.0.8847.22466"
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Biological Warfare",
+    "steamId": "3221550806",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -1152,12 +1152,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -1182,12 +1176,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
@@ -1204,12 +1192,6 @@
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
   },
   {
     "author": "Oskar Potocki and XeoNovaDan",
@@ -1330,6 +1312,12 @@
     "name": "World Map Beautification Project (Continued)",
     "steamId": "3266720501",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.5.0"
   },
   {
     "author": "Carolusclen",
