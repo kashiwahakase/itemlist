@@ -246,6 +246,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -364,11 +369,6 @@
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
 	"total": 74

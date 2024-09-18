@@ -3614,32 +3614,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Unaffected",
-      "name": "unaffected"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy knows the spirit of all arms. If he is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should Timmy ever unequip the weapon, it will lose these traits.",
       "stats": [
         "+4 melee",
@@ -3877,28 +3851,6 @@
       },
       "defName": "HAR_Xenophobia",
       "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is charming and charismatic. Others are inclined to like him, and his knows how to lift their spirits with well-placed words.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CYB_Delightful",
-      "name": "delightful"
     },
     {
       "canAdd": true,
