@@ -76,11 +76,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "animaltame",
 		"price": 500,
 		"karmatype": "Good"
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -176,31 +171,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 4500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 4500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 4500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 4500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -219,11 +189,6 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 3000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -271,31 +236,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 25000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -314,11 +254,6 @@
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -376,5 +311,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 75
+	"total": 62
 }
