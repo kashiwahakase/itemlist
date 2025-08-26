@@ -216,11 +216,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -311,5 +306,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 62
+	"total": 61
 }
