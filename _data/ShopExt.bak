@@ -2176,182 +2176,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy rejects ranged weapons, instead he focuses on mastering his blade and footwork.",
-      "stats": [
-        "+4 melee",
-        "+4.0 melee hit chance",
-        "+10.0 melee dodge chance",
-        "+0.10 move speed"
-      ],
-      "conflicts": [
-        "samurai",
-        "wayofthebow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "samurai",
-          "wayofthebow"
-        ],
-        "stats": [
-          "+4 melee",
-          "+4.0 melee hit chance",
-          "+10.0 melee dodge chance",
-          "+0.10 move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSKensei",
-      "name": "kensei"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a formally trained samurai and the backbone of any clan's army, he is versitile, hits hard and is even harder to kill.",
-      "stats": [
-        "+2 melee",
-        "+2 shooting",
-        "+2.0 melee hit chance",
-        "+2.0 shooting accuracy",
-        "-20% incoming damage multiplier",
-        "+15% pain shock threshold"
-      ],
-      "conflicts": [
-        "kensei",
-        "wayofthebow"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kensei",
-          "wayofthebow"
-        ],
-        "stats": [
-          "+2 melee",
-          "+2 shooting",
-          "+2.0 melee hit chance",
-          "+2.0 shooting accuracy",
-          "-20% incoming damage multiplier",
-          "+15% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSSamurai",
-      "name": "samurai"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a practitioner of The Way of The Bow, his well placed shots can be the deciding factor in the outcome of a fight.",
-      "stats": [
-        "+4 shooting",
-        "+5.0 shooting accuracy",
-        "-15% aiming time"
-      ],
-      "conflicts": [
-        "kensei",
-        "samurai"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kensei",
-          "samurai"
-        ],
-        "stats": [
-          "+4 shooting",
-          "+5.0 shooting accuracy",
-          "-15% aiming time"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSWayOfTheBow",
-      "name": "wayofthebow"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a masterless warrior, his life on the road has been tough, but it has strengthened his body and mind.",
-      "stats": [
-        "-6% mental break threshold",
-        "+10% medical tend quality",
-        "+5.0C max comfortable temperature",
-        "-5.0C min comfortable temperature",
-        "+5 carrying capacity",
-        "+10% rest rate multiplier",
-        "+0.20 move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-6% mental break threshold",
-          "+10% medical tend quality",
-          "+5.0C max comfortable temperature",
-          "-5.0C min comfortable temperature",
-          "+5 carrying capacity",
-          "+10% rest rate multiplier",
-          "+0.20 move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Edo Themed Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HSRonin",
-      "name": "ronin"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
       "stats": [
         "-2 shooting",
@@ -3915,6 +3739,164 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "cowardly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-50% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "fearless"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's faith is firm. It allows him to better handle pressure and power through pain.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faith",
+      "name": "faith"
     }
   ],
   "races": [
@@ -3924,6 +3906,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Min comfortable temperature",
@@ -3937,7 +3922,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 3500
     },
@@ -3947,6 +3932,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Min comfortable temperature",
@@ -3963,6 +3951,32 @@
       "enabled": false,
       "name": "human",
       "price": 3500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+105% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A human with rodent-like genes. Although their origins are unknown, it is known to be a monarchy-based society with a strong emphasis on agriculture. There are more females than males, and it can be difficult to distinguish the gender of ratkin when viewed from the outside.",
+      "defName": "Ratkin",
+      "enabled": false,
+      "name": "Ratkin",
+      "price": 3333
     }
   ]
 }
